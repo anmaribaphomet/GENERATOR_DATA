@@ -2,7 +2,7 @@
 Solo yo 
 <a href="https://github.com/anmaribaphomet"> @anmaribaphomet</a><br>
 
-Este programa fue desarrollado para la materia base de datos 2 en el semestre 2026-1
+Este programa fue desarrollado para la materia base de datos 2 en el semestre 2026-1 en la Universidad de Sonora
 
 # Generador de Datos de Alumnos
 
@@ -107,12 +107,3 @@ Puede utilizarse para pruebas de aplicaciones, intercambio de información o pro
  La generación de nombres aleatorios no garantiza que todos los registros correspondan a personas
  reales ni que los datos sean representativos de una población.
 
-## Objetivo académico
-
-Este proyecto permite practicar la manipulación de cadenas de texto, el uso de arreglos, 
-la generación de datos aleatorios, las estructuras de control, la creación dinámica de contenido y la exportación de información en distintos formatos.
-
-Asimismo, contribuye a comprender cómo se estructura la información para su utilización en 
-bases de datos relacionales y formatos de intercambio de datos.
-
-**Institución:** Universidad de Sonora
